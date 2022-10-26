@@ -1,0 +1,14 @@
+Shoppingtooltracking Pro Environment
+
+SQL Server
+Server : sql-shoppingtooltracking-pro.database.windows.net
+Username : shoppingtooltrackingprod
+Password : yXafWNPz7BZQ7tYL
+
+
+Web App
+
+URL : https://web-shoppingtooltracking-pro.azurewebsites.net/WSAutomation
+FTP : ftp://waws-prod-sg1-035.ftp.azurewebsites.windows.net/site/wwwroot
+Username : web-shoppingtooltracking-pro\$web-shoppingtooltracking-pro
+Password : ysdFoEQAWQmEnZCnYfNZK0XDYqBeq9q5uEWJytwea2gxJAFFz5kcpR0egWza
